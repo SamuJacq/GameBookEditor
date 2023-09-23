@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="jacquemins/src/main/java"/>
+	<classpathentry kind="src" path="jacquemins/src/test/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="jacquemins/build/libs/jacquemins.jar"/>
+	<classpathentry kind="lib" path="jacquemins/build/tmp/expandedArchives/org.jacoco.agent-0.8.7.jar_3a83c50b4a016f281c4e9f3500d16b55/jacocoagent.jar"/>
+	<classpathentry kind="output" path="jacquemins/build/classes/java/main"/>
+</classpath>
